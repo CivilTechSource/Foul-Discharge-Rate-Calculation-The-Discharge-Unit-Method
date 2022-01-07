@@ -1,0 +1,10 @@
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\bin\Debug\CTS-C002-Foul Discharge Rate.exe.config
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\bin\Debug\CTS-C002-Foul Discharge Rate.exe
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\bin\Debug\CTS-C002-Foul Discharge Rate.pdb
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\obj\Debug\CTS-C002-Foul Discharge Rate.csprojAssemblyReference.cache
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\obj\Debug\CTS_C002_Foul_Discharge_Rate.MainForm.resources
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\obj\Debug\CTS_C002_Foul_Discharge_Rate.Properties.Resources.resources
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\obj\Debug\CTS-C002-Foul Discharge Rate.csproj.GenerateResource.cache
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\obj\Debug\CTS-C002-Foul Discharge Rate.csproj.CoreCompileInputs.cache
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\obj\Debug\CTS-C002-Foul Discharge Rate.exe
+F:\Coding Projects\C#\Civil Engineering\CTS-C002-Foul Discharge Rate\CTS-C002-Foul Discharge Rate\obj\Debug\CTS-C002-Foul Discharge Rate.pdb
